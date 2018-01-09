@@ -1,0 +1,27 @@
+===Running Test Cases===
+
+S, K, t, T, sigma, r
+[100, 100, 0, 0.5, 20, 1]
+Call option value 5.876024
+Put option value 5.377272
+
+S, K, t, T, sigma, r
+[100, 120, 0, 0.5, 20, 1]
+Call option value 0.774139
+Put option value 20.175636
+
+S, K, t, T, sigma, r
+[100, 100, 0, 1.0, 20, 1]
+Call option value 8.433319
+Put option value 7.438302
+
+S, K, t, T, sigma, r
+[100, 100, 0, 0.5, 30, 1]
+Call option value 8.677646
+Put option value 8.178893
+
+S, K, t, T, sigma, r
+[100, 100, 0, 0.5, 20, 2]
+Call option value 6.120654
+Put option value 5.125637
+
